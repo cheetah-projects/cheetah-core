@@ -22,8 +22,5 @@ class DiGenerator extends Generator {
   }
 }
 
-/**
- * DI builder factory.
- */
 Builder diBuilder(BuilderOptions options) =>
     LibraryBuilder(DiGenerator(), generatedExtension: '.di.g.dart');

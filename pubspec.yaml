@@ -1,7 +1,7 @@
 name: cheetah_core
 description: A starting point for Dart libraries or applications.
-version: 1.0.0
-# repository: https://github.com/my_org/my_repo
+version: 0.0.1
+repository: https://github.com/cheetah-projects/cheetah-core
 
 environment:
   sdk: ^3.6.2
@@ -12,6 +12,7 @@ dependencies:
   build: ^2.4.2
   build_config: ^1.1.2
   build_runner_core: ^8.0.0
+  meta: ^1.16.0
   source_gen: ^2.0.0
   # path: ^1.8.0
 
