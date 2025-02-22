@@ -12,8 +12,13 @@ dependencies:
   build: ^2.4.2
   build_config: ^1.1.2
   build_runner_core: ^8.0.0
+  crypto: ^3.0.6
+  drift: ^2.25.1
   intl: ^0.20.2
   meta: ^1.16.0
+  mysql1: ^0.20.0
+  postgres: ^3.5.4
+  shelf: ^1.4.2
   source_gen: ^2.0.0
   # path: ^1.8.0
 
